@@ -24,5 +24,9 @@ public class About3 {
 		// TODO Auto-generated method stub
 		// another test
 	}
+	
+	public void testMethod() {
+		System.out.println("This is just a test!");
+	}
 
 }
